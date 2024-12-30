@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\herorandomaizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\herorandomaizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\contexts\\herobuildercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\contexts\\herobuildercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\models\\powerattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\models\\powerattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\models\\clans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\models\\clans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\models\\heromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\models\\heromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\newherowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\newherowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|c:\\users\\heavy\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\herorandomaizer\\herorandomaizer\\newherowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86688BD-9C97-4657-BBFC-CE06D6EBF09D}|HeroRandomaizer\\HeroRandomaizer.csproj|solutionrelative:herorandomaizer\\newherowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroRandomaizer",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\HeroRandomaizer.csproj",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\HeroRandomaizer.csproj",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\HeroRandomaizer.csproj",
+              "RelativeToolTip": "HeroRandomaizer\\HeroRandomaizer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T00:36:14.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeroBuilderContext.cs",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\Contexts\\HeroBuilderContext.cs",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\Contexts\\HeroBuilderContext.cs",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\Contexts\\HeroBuilderContext.cs",
+              "RelativeToolTip": "HeroRandomaizer\\Contexts\\HeroBuilderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:26:39.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PowerAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\Models\\PowerAttributes.cs",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\Models\\PowerAttributes.cs",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\Models\\PowerAttributes.cs",
+              "RelativeToolTip": "HeroRandomaizer\\Models\\PowerAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:24:20.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\MainWindow.xaml",
+              "RelativeToolTip": "HeroRandomaizer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T00:14:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HeroRandomaizer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:14:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewHeroWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\NewHeroWindow.xaml",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\NewHeroWindow.xaml",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\NewHeroWindow.xaml",
+              "RelativeToolTip": "HeroRandomaizer\\NewHeroWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T01:00:20.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\AssemblyInfo.cs",
+              "RelativeToolTip": "HeroRandomaizer\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:47:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\App.xaml.cs",
+              "RelativeToolTip": "HeroRandomaizer\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:32:08.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeroModel.cs",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\Models\\HeroModel.cs",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\Models\\HeroModel.cs",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\Models\\HeroModel.cs",
+              "RelativeToolTip": "HeroRandomaizer\\Models\\HeroModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:16:04.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clans.cs",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\Models\\Clans.cs",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\Models\\Clans.cs",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\Models\\Clans.cs",
+              "RelativeToolTip": "HeroRandomaizer\\Models\\Clans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:25:38.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewHeroWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\NewHeroWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HeroRandomaizer\\NewHeroWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\heavy\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0430\u0431\u0434\u0443\u043A\u0430\u0440\u0438\u043C\u0443\\HeroRandomaizer\\HeroRandomaizer\\NewHeroWindow.xaml.cs",
+              "RelativeToolTip": "HeroRandomaizer\\NewHeroWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:00:25.019Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1602,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
